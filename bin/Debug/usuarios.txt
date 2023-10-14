@@ -1,0 +1,3 @@
+GLORIA:123456:Estudiante
+lol:123:Estudiante
+GLORIA:456123

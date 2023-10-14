@@ -1,0 +1,55 @@
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\Sistema de Gestión Escolar - 75% Parcial.exe
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\Sistema de Gestión Escolar - 75% Parcial.deps.json
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\Sistema de Gestión Escolar - 75% Parcial.runtimeconfig.json
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\Sistema de Gestión Escolar - 75% Parcial.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\Sistema de Gestión Escolar - 75% Parcial.pdb
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\obj\Debug\net6.0-windows\Sistema de Gestión Escolar - 75% Parcial.csproj.AssemblyReference.cache
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\obj\Debug\net6.0-windows\Sistema_de_Gestión_Escolar___75__Parcial.Form1.resources
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\obj\Debug\net6.0-windows\Sistema_de_Gestión_Escolar___75__Parcial.Form2.resources
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\obj\Debug\net6.0-windows\Sistema_de_Gestión_Escolar___75__Parcial.Form3.resources
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\obj\Debug\net6.0-windows\Sistema_de_Gestión_Escolar___75__Parcial.Form5.resources
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\obj\Debug\net6.0-windows\Sistema_de_Gestión_Escolar___75__Parcial.Form6.resources
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\obj\Debug\net6.0-windows\Sistema_de_Gestión_Escolar___75__Parcial.Form7.resources
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\obj\Debug\net6.0-windows\Sistema_de_Gestión_Escolar___75__Parcial.Properties.Resources.resources
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\obj\Debug\net6.0-windows\Sistema de Gestión Escolar - 75% Parcial.csproj.GenerateResource.cache
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\obj\Debug\net6.0-windows\Sistema de Gestión Escolar - 75% Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\obj\Debug\net6.0-windows\Sistema de Gestión Escolar - 75% Parcial.AssemblyInfoInputs.cache
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\obj\Debug\net6.0-windows\Sistema de Gestión Escolar - 75% Parcial.AssemblyInfo.cs
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\obj\Debug\net6.0-windows\Sistema de Gestión Escolar - 75% Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\obj\Debug\net6.0-windows\Sistema de Gestión Escolar - 75% Parcial.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\obj\Debug\net6.0-windows\refint\Sistema de Gestión Escolar - 75% Parcial.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\obj\Debug\net6.0-windows\Sistema de Gestión Escolar - 75% Parcial.pdb
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\obj\Debug\net6.0-windows\Sistema de Gestión Escolar - 75% Parcial.genruntimeconfig.cache
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\obj\Debug\net6.0-windows\ref\Sistema de Gestión Escolar - 75% Parcial.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\obj\Debug\net6.0-windows\Sistema_de_Gestión_Escolar___75__Parcial.Form8.resources
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\obj\Debug\net6.0-windows\Sistema de Gestión Escolar - 75% Parcial.csproj.ResolveComReference.cache
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\SpreadsheetLight.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\obj\Debug\net6.0-windows\Sistema de Gestión Escolar - 75% Parcial.csproj.CopyComplete
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\Enums.NET.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\NPOI.Core.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\NPOI.OOXML.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\SixLabors.ImageSharp.dll
+C:\Users\Ces\source\repos\Sistema de Gestión Escolar - 75% Parcial\Sistema de Gestión Escolar - 75% Parcial\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
